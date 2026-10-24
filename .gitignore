@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Experimental data
+results/
+*.log
+*.csv
+*.pcap
+
+# Local configuration
+.env
+.DS_Store
